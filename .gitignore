@@ -1,3 +1,4 @@
 
 #ignore all database files
-/db*
+/db/*
+*.swp
